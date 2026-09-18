@@ -1,0 +1,85 @@
+{
+  "_commentaire": "Univers d'ETF eligibles au PEA. Le script resout automatiquement le symbole Yahoo a partir de l'ISIN, donc pas besoin de connaitre le ticker. Verifie la disponibilite reelle de chaque ligne dans TON PEA Trade Republic avant de l'activer (actif: true/false).",
+  "etfs": [
+    {
+      "isin": "FR0011871128",
+      "nom": "Amundi PEA S&P 500",
+      "categorie": "Actions US",
+      "bloc": "US",
+      "frais": 0.15,
+      "actif": true
+    },
+    {
+      "isin": "LU1681043599",
+      "nom": "Amundi MSCI World",
+      "categorie": "Actions monde developpe",
+      "bloc": "Monde",
+      "frais": 0.38,
+      "actif": true
+    },
+    {
+      "isin": "FR0013412020",
+      "nom": "Amundi PEA MSCI Emerging Markets ESG",
+      "categorie": "Actions emergents",
+      "bloc": "Emergents",
+      "frais": 0.30,
+      "actif": true
+    },
+    {
+      "isin": "FR0013411980",
+      "nom": "Amundi PEA Japan TOPIX",
+      "categorie": "Actions Japon",
+      "bloc": "Japon",
+      "frais": 0.20,
+      "actif": true
+    },
+    {
+      "isin": "LU0908501058",
+      "nom": "Amundi MSCI EMU ESG",
+      "categorie": "Actions zone euro",
+      "bloc": "Europe",
+      "frais": 0.12,
+      "actif": true
+    },
+    {
+      "isin": "FR0010655688",
+      "nom": "Amundi STOXX Europe 600",
+      "categorie": "Actions Europe large",
+      "bloc": "Europe",
+      "frais": 0.07,
+      "actif": true
+    },
+    {
+      "isin": "FR0010296061",
+      "nom": "Amundi CAC 40",
+      "categorie": "Actions France",
+      "bloc": "Europe",
+      "frais": 0.25,
+      "actif": true
+    },
+    {
+      "isin": "FR0011871110",
+      "nom": "Amundi PEA Nasdaq-100",
+      "categorie": "Actions tech US",
+      "bloc": "US",
+      "frais": 0.30,
+      "actif": true
+    },
+    {
+      "isin": "FR0011869304",
+      "nom": "Amundi PEA MSCI Europe Small Cap",
+      "categorie": "Small caps Europe",
+      "bloc": "Europe",
+      "frais": 0.35,
+      "actif": false
+    },
+    {
+      "isin": "FR0013412012",
+      "nom": "Amundi PEA Monde (MSCI World)",
+      "categorie": "Actions monde developpe",
+      "bloc": "Monde",
+      "frais": 0.38,
+      "actif": false
+    }
+  ]
+}
