@@ -80,6 +80,38 @@
       "bloc": "Monde",
       "frais": 0.38,
       "actif": false
+    },
+     {
+      "isin": "FR0013412012",
+      "nom": "Amundi PEA Monde (MSCI World)",
+      "categorie": "Actions monde developpe",
+      "bloc": "Monde",
+      "frais": 0.38,
+      "actif": false
+    },
+    {
+      "isin": "FR0011871078",
+      "nom": "Amundi PEA Chine (MSCI China)",
+      "categorie": "Actions Chine",
+      "bloc": "Emergents",
+      "frais": 0.65,
+      "actif": true
+    },
+    {
+      "isin": "FR0011869320",
+      "nom": "Amundi PEA Inde (MSCI India)",
+      "categorie": "Actions Inde",
+      "bloc": "Emergents",
+      "frais": 0.85,
+      "actif": true
+    },
+    {
+      "isin": "FR0013346681",
+      "nom": "Amundi PEA Obligations d'Etat Euro",
+      "categorie": "Obligataire zone euro (converti quasi-monetaire)",
+      "bloc": "Obligataire",
+      "frais": 0.25,
+      "actif": true
     }
   ]
 }
